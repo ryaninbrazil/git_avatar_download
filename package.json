@@ -1,0 +1,23 @@
+{
+  "name": "git_avatar_download",
+  "version": "1.0.0",
+  "description": "GitHub Avatar Downloader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryaninbrazil/git_avatar_download.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryaninbrazil/git_avatar_download/issues"
+  },
+  "homepage": "https://github.com/ryaninbrazil/git_avatar_download#readme",
+  "dependencies": {
+    "request": "^2.83.0"
+  }
+}
